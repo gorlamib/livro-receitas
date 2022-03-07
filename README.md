@@ -3,3 +3,4 @@
 Olá! Bem vindo(a) ao meu livro de receitas! :wave:
 
 - Pizza Pan Vegana
+- Maionese de Aquafaba
